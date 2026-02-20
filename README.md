@@ -1,4 +1,4 @@
 # github-demo
 this is tutorial repository
 <br>
-author - Avnish Sharma
+author - Avnish Suresh Sharma
